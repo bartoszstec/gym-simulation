@@ -1,5 +1,5 @@
 # Gym-simulation
-Simulation of traffic movement on gym depending on time.
+This project simulates gym traffic and equipment usage using Python and SimPy. It models customer arrivals, resource constraints, and queue management strategies to evaluate gym operational dynamics over a full day.
 
 # Description
 The simulation aims to represent the gym's operation in a realistic way, taking into account the dynamics of the influx of customers, limited hardware resources (training stations) and various queue management strategies. The model was implemented in **Python** using the **SimPy** library, which allows for conducting discrete event simulations in time.
